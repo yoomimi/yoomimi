@@ -1,0 +1,4 @@
+- 💞️ Hi, I’m @yoomimi
+- 👀 I’m interested in Computer Vision, Algorithm...
+- 🌱 Department of Electrical and Electronic Engineering, Yonsei University (undergraduate student)
+- 📫 mijin6690@yonsei.ac.kr
