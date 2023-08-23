@@ -1,6 +1,6 @@
 ## 💞️ Hi, I’m yoomimi 💞️
 ####
-> 👀 I’m interested in __Coding Test, Computer Vision, Algorithm, Front-End...__
+> 👀 I’m interested in __Computer Vision, Algorithm, Front-End, Esports, Data Analytics...__
 > 
 > 🌱 Department of __Electrical and Electronic Engineering, Yonsei University__
 > 
