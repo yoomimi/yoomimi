@@ -28,4 +28,6 @@ __⚡Electrical and Electronic Engineering⚡, Yonsei University__
 <br>
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoomimi%2Fhit-counter&count_bg=%23555555&title_bg=%23C400FF&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoomimi&layout=compact)
 </div>
