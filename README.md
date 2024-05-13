@@ -6,7 +6,7 @@
 
 I'm interested in...
 <br>
-__💻Front-End, 👀Computer Vision, 📈Data Analytics, 🚀HCI, 🎮Esports__
+__👀Computer Vision, 📈Data Analytics, 🚀HCI, 💻Front-End__
 <br>
 <br>
 <br>
