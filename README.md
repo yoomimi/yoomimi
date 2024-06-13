@@ -1,7 +1,9 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=0:FFCCCC,777777:CD99FF&height=200&section=header&text=♥%20Mijin%20Yoo%20♥&fontSize=70&stroke=FFFFFF&fontColor=0000&fontAlignY=30)
+#### $${\color{#56565E}Hi, \space I'm \space \color{blueviolet}Mijin \space Yoo, \space \color{#56565E}being \space an \space \color{violet}AI \space fullstack \space developer \space \color{#56565E}in \space the \space future. \color{red} ❤️}$$
 
+<br>
 
 __📚 STACKS__
 
