@@ -1,6 +1,31 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&&color=0:FFCCCC,777777:CD99FF&height=300&section=header&text=♥%20Mijin's%20github%20♥&fontSize=90&stroke=FFFFFF&fontColor=0000&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&&color=0:FFCCCC,777777:CD99FF&height=200&section=header&text=♥%20Mijin%20Yoo%20♥&fontSize=70&stroke=FFFFFF&fontColor=0000&fontAlignY=30)
+
+
+__📚 STACKS__
+
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
+  
+
+  
+  <br>
+  <br>  
+  <br>
+</div>
+
+<div align="center">
 
 <br>
 
@@ -8,7 +33,7 @@ I'm interested in...
 <br>
 __💻Deep learning | 👀Computer vision | 🚀HCI(HMI) | 📈Data analytics__
 <br>
-<br>
+
 <br>
 I'm majoring in...
 <br>
@@ -25,9 +50,10 @@ __⚡Electrical and Electronic Engineering, Yonsei University__
 <a href="https://yoomimi.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 <br>
-<br>
+
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoomimi%2Fhit-counter&count_bg=%23555555&title_bg=%23C400FF&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoomimi&layout=compact)
 </div>
