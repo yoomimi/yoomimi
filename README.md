@@ -6,7 +6,7 @@
 
 I'm interested in...
 <br>
-__👀Computer Vision, 📈Data Analytics, 🚀HCI, 💻Front-End__
+__💻Deep learning | 👀Computer vision | 🚀HCI(HMI) | 📈Data analytics__
 <br>
 <br>
 <br>
