@@ -12,7 +12,7 @@ __💻Deep learning | 👀Computer vision | 🚀HCI(HMI) | 📈Data analytics__
 <br>
 I'm majoring in...
 <br>
-__⚡Electrical and Electronic Engineering⚡, Yonsei University__
+__⚡Electrical and Electronic Engineering, Yonsei University__
 
 <br>
 <br>
