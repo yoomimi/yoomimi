@@ -49,8 +49,7 @@ __⚡Electrical and Electronic Engineering, Yonsei University__
 📫 Mail: mijin6690@yonsei.ac.kr
 <br>
 🔗 Blog:
-<a href="https://yoomimi.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" /> (Click here!)
+<a href="https://yoomimi.tistory.com"> (Click here!)
 <br>
 <br>
 
