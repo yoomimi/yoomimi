@@ -33,7 +33,7 @@ __📚 STACKS__
 I'm interested in...
 <br>
 
-__💻Deep learning | 👀Computer vision | 🚀HCI(HMI) | 📈Data analytics__
+__💻Machine learning | 👀Computer vision | 🚀HCI(HMI) | 📈Data analytics__
 <br>
 
 <br>
