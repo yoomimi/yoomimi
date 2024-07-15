@@ -34,7 +34,7 @@ __📚 STACKS__
 I'm interested in...
 <br>
 
-__💻Machine learning | 👀Computer vision | 🚀HCI(HMI) | 📈Data analytics__
+__💻Machine learning | 👀Computer vision | 🚀HCI | 📈Data analytics__
 <br>
 
 <br>
@@ -49,9 +49,13 @@ __⚡Electrical and Electronic Engineering, Yonsei University__
 
 📫 Mail: mijin6690@yonsei.ac.kr
 <br>
+
 🔗 Blog:
 <a href="https://yoomimi.tistory.com"> (Click here!)
 <br>
+
+🏡 Webpage:
+<a href="https://yoomimi.github.io"> (Click here!)
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoomimi%2Fhit-counter&count_bg=%23555555&title_bg=%23C400FF&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
