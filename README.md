@@ -60,6 +60,12 @@ __⚡Electrical and Electronic Engineering, Yonsei University__
 <a href="https://yoomimi.github.io"> (Click here!)
 <br>
 
+🔗 Linkedin:
+<a href="https://www.linkedin.com/in/mijin-yoo-57934231a/"> (Click here!)
+<br>
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoomimi%2Fhit-counter&count_bg=%23555555&title_bg=%23C400FF&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 </div>
