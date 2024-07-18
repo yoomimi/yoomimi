@@ -61,7 +61,7 @@ __⚡Electrical and Electronic Engineering, Yonsei University__
 <br>
 
 🔗 Linkedin:
-<a href="https://www.linkedin.com/in/mijin-yoo-57934231a/"> (Click here!)
+<a href="https://www.linkedin.com/in/yoomimi/"> (Click here!)
 <br>
 
 
