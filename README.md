@@ -2,8 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=0:FFCCCC,777777:CD99FF&height=160&section=header&fontSize=70&stroke=FFFFFF&fontColor=0000&fontAlignY=30)
 
-<img src="https://media.tenor.com/zVvViQKqa0MAAAAi/psybirdb1oom.gif" style="width:179px">
-
+<!--  <img src="https://media.tenor.com/zVvViQKqa0MAAAAi/psybirdb1oom.gif" style="width:179px"> -->
+<img src="https://media.tenor.com/FIOSFwDbg2MAAAAi/sanrio-cinnamoroll.gif" style="width:179px">
 <br>
 
   <img src="https://img.shields.io/badge/python-ff72b0?style=for-the-badge&logo=python&logoColor=ff4279"> 
