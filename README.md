@@ -1,8 +1,21 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=wave&&color=0:FFCCCC,777777:CD99FF&height=160&section=header&fontSize=70&stroke=FFFFFF&fontColor=0000&fontAlignY=30)
 
-<img src="https://media.tenor.com/zVvViQKqa0MAAAAi/psybirdb1oom.gif" style="width:179px"> 
+<br>
+
+*I am a Integrated M.S./Ph.D. Program student
+<br>
+in __Artificial Intelligence at Yonsei University__ advised by Prof. [Seon Joo Kim](https://www.ciplab.kr/).*
+<br>
+*I received my Bachelor's degree in Electrical and Electronic Engineering from Yonsei University in February 2025.*
+
+
+</div>
+
+<div align="center">
+  
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&&color=0:FFCCCC,777777:CD99FF&height=160&section=header&fontSize=70&stroke=FFFFFF&fontColor=0000&fontAlignY=30) -->
+
+<img src="https://media.tenor.com/zVvViQKqa0MAAAAi/psybirdb1oom.gif" style="width:233px" align="right"> 
 <!--  <img src="https://media.tenor.com/FIOSFwDbg2MAAAAi/sanrio-cinnamoroll.gif" style="width:179px"> -->
 <br>
 
@@ -26,33 +39,10 @@
   
   <br>
   <br>
-</div>
 
-<div align="center">
-
+🩰 *[Homepage](https://yoomimi.github.io/)*
+🔗 *[Linkedin](https://www.linkedin.com/in/yoomimi/)*
 <br>
-
-
-__💻Machine learning | 👀Computer vision | 🚀HCI | 📈Data processing__
-<br>
-
-<br>
-
-__⚡Electrical and Electronic Engineering, 🦅Yonsei University__
-<br>
-<br>
-<br>
-<br>
-🩰 __SNS__ 🩰
-
-🏡 Webpage:
-<a href="https://yoomimi.github.io"> (Click here!)
-<br>
-
-🔗 Linkedin:
-<a href="https://www.linkedin.com/in/yoomimi/"> (Click here!)
-<br>
-
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoomimi%2Fhit-counter&count_bg=%23ff92d0&title_bg=%23ff4279&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
